@@ -1,20 +1,27 @@
 #EXTM3U
-#EXTINF:-1,#EXTINF:0,Ambient Sleeping Pill [Opt-1]
+
+#EXTINF:-1 tvg-name="Ambient Sleeping Pill" group-title="Radio",Ambient Sleeping Pill
 http://nocable.cc:8080/wRQ9Ca/970072/14823
 
-#EXTINF:-1,USA:  ABC 7 (KABC) New York VIP
+#EXTINF:-1 tvg-name="ABC 7 (KABC)" group-title="USA",ABC 7 (KABC) New York VIP
 http://newborne.pro:8080/bZJaCKM4/uzTqg4n/92886
 
-#EXTINF:-1,USA: CBS 2 (WCBS) New York VIP
+#EXTINF:-1,USA: ABC
+http://nocable.cc:8080/wRQ9Ca/970072/22990
+
+
+#EXTINF:-1 tvg-name="CBS 2 (WCBS)" group-title="USA",CBS 2 (WCBS) New York VIP
 http://newborne.pro:8080/bZJaCKM4/uzTqg4n/92795
 
-#EXTINF:-1,USA: NBC 4 (WNBC) New York VIP
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/92632
+#EXTINF:-1,US CBS News 
+http://nocable.cc:8080/wRQ9Ca/970072/21259
 
-#EXTINF:-1,USA: NBC 20 (WBBH) Fort Myers VIP
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/92661
 
-FOX (WNYW)5
+#EXTINF:-1 tvg-name="NBC 4 (WNBC)" group-title="USA",NBC 4 (WNBC) New York VIP
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16889
+
+#EXTINF:-1 tvg-name="NBC 20 (WBBH)" group-title="USA",NBC 20 (WBBH) Fort Myers VIP
+http://newborne.pro:8080/bZJaCKM4/uzTqg4n/92661OX (WNYW)5
 #EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/1/1a/Fts-new-york.png/revision/latest?cb=20220102050349", FOX New York
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 
@@ -22,8 +29,8 @@ https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index
 http://newborne.pro:8080/bZJaCKM4/uzTqg4n/92408
 
 
-#EXTINF:-1,CA (FR) RDI (E)
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/101420
+#EXTINF:-1,CA: RDI
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/40564
 #EXTINF:-1 channel-id="FR23000013B-fr" tvg-id="FR23000013B" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR23000013B_20251118T015405SQUARE.Al Jazeera
 https://jmp2.uk/stvp-FR23000013B
 #EXTINF:-1,US Al Jazeera
@@ -47,18 +54,18 @@ http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/176368
 
 Univisi n (WXTV) 6/1004
 #EXTINF:-1 tvg-ID="I692.11118.schedulesdirect.org" tvg-logo="https://static.wikia.nocookie.net/annex/images/9/99/WXTV-DT_%282019%29.png/revision/latest?cb=20211107020808", Univision
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/15336
+http://nocable.cc:8080/wRQ9Ca/970072/15336
 Telemundo (WNJU) 16/1007
 #EXTINF:-1,LAT: TELEMUNDO 51 MIAMI HD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/56410
+http://nocable.cc:8080/wRQ9Ca/970072/56410
 #EXTINF:-1,US UniMas  
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/57969
+http://nocable.cc:8080/wRQ9Ca/970072/57969
 
 
 CW #EXTINF:-1,US CW P
 #EXTINF:-1 tvg-ID="TheCW.us" tvg-logo="https://dioceseofbrooklyn.org/wp-content/uploads/2020/07/wpix-logo.png", The CW
 http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/121170
-
+http://38.143.48.212:9981/stream/channelid/131655381?profile=pass
 
 
 News 12 Brooklyn 12
@@ -86,7 +93,7 @@ https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002857&type=stream.m3u8
 
 CNBC 22
 #EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9815
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16871
 
 
 
@@ -97,25 +104,38 @@ http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42947
 http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1,US MSNBC
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21376
+#EXTINF:-1,USA_VIP: EWTN
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16874
 
+
+#EXTINF:-1,US MSNBC
+http://nocable.cc:8080/wRQ9Ca/970072/21376
+#EXTINF:-1,US MSNBC 
+http://nocable.cc:8080/wRQ9Ca/970072/9296
+
+
+
+#EXTINF:-1,CA: CNN
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/40621
 
 
 
 CNN 24
 #EXTINF:-1 tvg-ID="cnn.us" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/1817
-
+http://nocable.cc:8080/wRQ9Ca/970072/104884
 
 
 CNN 25
 #EXTINF:-1 tvg-ID="cnn.us" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png", CNN
 https://jmp2.uk/stvp-FRBD190001055
 
+#EXTINF:-1,US Fox News  
+http://nocable.cc:8080/wRQ9Ca/970072/1818
+
 
 FOX News Channel 26
 #EXTINF:-1 tvg-ID="foxnews.us" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png", Fox News Channel
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/1818
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/40624
 
 
 #EXTINF:-1 tvg-ID="92news.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-RT NEW SD
@@ -148,48 +168,28 @@ http://newborne.pro:8080/bZJaCKM4/uzTqg4n/92368
 #EXTINF:-1,USA: VIP FOX SPORTS 2
 
 
-#EXTINF:-1,FR: L EQUIPE
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/77993
-#EXTINF:-1,FR: CANAL+ 4K
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/77302
-#EXTINF:-1,FR: France 2 HD
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/949
-#EXTINF:-1,FR: France 3 HD
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/950
-#EXTINF:-1,FR: France 4 HD
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/951
-#EXTINF:-1,FR: France 5 HD
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/952
-#EXTINF:-1,FR: TV5 MONDE INFO FHD
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/26043
-#EXTINF:-1,FR: France 24 News
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/3803
-#EXTINF:-1,FR: France O
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/2163
-
-#EXTINF:-1,FR: TCM CINEMA
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/908
+#EXTINF:-1,[FR] L'EQUIPE 21 HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3067
+#EXTINF:-1,[FR] CANAL+ HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3106#EXTINF:-1,FR: TV5 MONDE INFO FHD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3007
+#EXTINF:-1,[FR] FRANCE O HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3073
+#EXTINF:-1,[FR] FRANCE 5HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3074
+#EXTINF:-1,[FR] FRANCE 4HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3075
+#EXTINF:-1,[FR] FRANCE 3HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3076
+#EXTINF:-1,[FR] FRANCE 2HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3077
+#EXTINF:-1,[FR] FRANCE 24 HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3078
+#EXTINF:-1,[FR] EURONEWS HD
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3079
 #EXTINF:-1,FR: TMC
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/1294
+http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3012
 
-
-
-#EXTINF:-1,ES: DAZN 1 LA LIGA
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/68972
-#EXTINF:-1,ES: DAZN 2 LA LIGA
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/68973
-#EXTINF:-1,ES: La Liga HD
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/26379
-#EXTINF:-1,ES: LA LIGA 1
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/53528
-#EXTINF:-1,ES: TELEDEPORTE
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/63422
-#EXTINF:-1,ES: DAZN 1
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/53520
-#EXTINF:-1,ES: DAZN 2
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/53521
-#EXTINF:-1,ES: DAZN 3
-http://newborne.pro:8080/bZJaCKM4/uzTqg4n/63142
 
 
 
@@ -232,502 +232,472 @@ http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3118
 http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3119
 #EXTINF:-1,[FR] beIN SPORT 2HD
 http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3120
-#EXTINF:-1,[FR] beIN SPORT 3HD
-http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3121
-#EXTINF:-1,[FR] BeIN Sports MAX 4
-http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3122
-#EXTINF:-1,[FR] BeIN Sports MAX 5
-http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3123
-#EXTINF:-1,[FR] BeIN Sports MAX 6
-http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3124
-#EXTINF:-1,[FR] BeIN Sports MAX 7
-http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3125
-#EXTINF:-1,[FR] BeIN Sports MAX 8
-http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3126
-#EXTINF:-1,[FR] BeIN Sports MAX 9
-http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3127
-#EXTINF:-1,[FR] BeIN Sports MAX 10
-http://trkst.detr.xyz:80/jj-jackSlype/JevBtgjekr/3128
-
 
 
 ============================================================================================================================================================================================
 
+#EXTINF:-1,USA_VIP: AMC | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42901
+#EXTINF:-1,USA_VIP: PARAMOUNT NETWORK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42962
+#EXTINF:-1,USA_VIP: STARZ IN BLACK  | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42990
+#EXTINF:-1,USA_VIP: BIG TEN NETWORK (BTN) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42991
+#EXTINF:-1,USA_VIP: Cinemax ActionMax HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42992
+#EXTINF:-1,USA_VIP: CINEMAX THRILLER | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42993
+#EXTINF:-1,USA_VIP: SHOWTIME (East) | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42965
+#EXTINF:-1,USA_VIP: SHOWTIME (West) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42966
+#EXTINF:-1,USA_VIP: STARZ (East) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42967
+#EXTINF:-1,USA_VIP: STARZ CINEMA | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42968
+#EXTINF:-1,USA_VIP: STARZ EDGE | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42969
+#EXTINF:-1,USA_VIP: STARZ IN BLACK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42970
+#EXTINF:-1,USA_VIP: SYFY | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42971
+#EXTINF:-1,USA_VIP: CINEMAX (West) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42912
+#EXTINF:-1,USA_VIP: CINEMAX ACTION | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42913
+#EXTINF:-1,USA_VIP: CINEMAX ACTIONMAX | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42914
+#EXTINF:-1,USA_VIP: CINEMAX West | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42915
+#EXTINF:-1,USA_VIP: HBO ( West ) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42938
+#EXTINF:-1,USA_VIP: HBO (East) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42939
+#EXTINF:-1,USA_VIP: HBO 2 | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42940
+#EXTINF:-1,USA_VIP: HBO COMEDY | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42941
+#EXTINF:-1,USA_VIP: HBO FAMILY | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42942
+#EXTINF:-1,USA_VIP: HBO SIGNATURE | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42943
+#EXTINF:-1,|USA_VIP| THE MOVIE CHANNEL | HD*
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42916
+#EXTINF:-1,USA_VIP: SONY MOVIE CHANNEL | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43001
+#EXTINF:-1,USA_VIP: Starz Comedy HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43002
+#EXTINF:-1,USA_VIP: Starz Comedy HD*
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43003
+#EXTINF:-1,USA_VIP: STARZ EDGE HD*
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43004
+#EXTINF:-1,USA_VIP: STARZ ENCORE Classic | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43005
+#EXTINF:-1,USA_VIP: Starz Encore HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43006
+#EXTINF:-1,USA_VIP: Starz Encore Suspense
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43007
+#EXTINF:-1,USA_VIP: Starz Encore Western
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43008
+#EXTINF:-1,USA_VIP: STARZ HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43009
+#EXTINF:-1,USA_VIP: STARZ KIDS & FAMILY | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43010
+#EXTINF:-1,USA_VIP: Cinemax East HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42980
+#EXTINF:-1,USA_VIP: Showtime Next HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42983
+#EXTINF:-1,USA_VIP: Showtime Showcase HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42984
+#EXTINF:-1,USA_VIP: Hallmark HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42981
+#EXTINF:-1,US: NBC Sports
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42790
+#EXTINF:-1,USA_VIP:  ION TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42789
+#EXTINF:-1,|US_VIP| DISCOVERY LIFE | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42892
+#EXTINF:-1,USA_VIP: NFL REDZONE | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42893
+#EXTINF:-1,USA_VIP: NewsMax TV HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42894
+#EXTINF:-1,USA_VIP: USA NETWORK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42895
+#EXTINF:-1,USA_VIP | FOX DEPORTES
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42896
+#EXTINF:-1,USA_VIP: A&E | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42897
+#EXTINF:-1,USA_VIP: ABC | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42898
+#EXTINF:-1,USA_VIP: ABC 7(NEW YORK HD) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42899
+#EXTINF:-1,USA_VIP: ABC NEWS | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42900
+#EXTINF:-1,USA_VIP: ANIMAL PLANET | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42902
+#EXTINF:-1,USA_VIP: BEIN SPORT | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42903
+#EXTINF:-1,USA_VIP: BET HER | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42904
+#EXTINF:-1,USA_VIP: BRAVO | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42905
+#EXTINF:-1,USA_VIP: CARTOON NETWORK (East) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42906
+#EXTINF:-1,USA_VIP: CBS (EAST) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42907
+#EXTINF:-1,USA_VIP: CBS (West) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42908
+#EXTINF:-1,USA_VIP: CBS 2 (New York) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42909
+#EXTINF:-1,USA_VIP: CBS SPORTS NETWORK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42910
+#EXTINF:-1,USA_VIP: CBSN | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42911
+#EXTINF:-1,USA_VIP: CNN | HD*
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42917
+#EXTINF:-1,USA_VIP: CW | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42918
+#EXTINF:-1,USA_VIP: DISCOVERY CHANNEL | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42919
+#EXTINF:-1,USA_VIP: DISNEY CHANNEL | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42920
+#EXTINF:-1,USA_VIP: DISNEY JR. | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42921
+#EXTINF:-1,USA_VIP: DISNEY XD | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42922
+#EXTINF:-1,USA_VIP: DIY NETWORK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42923
+#EXTINF:-1,USA_VIP: E! WEST| UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42924
+#EXTINF:-1,USA_VIP: EPIX | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42925
+#EXTINF:-1,USA_VIP: ESPN | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42926
+#EXTINF:-1,USA_VIP: ESPN 2 | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42927
+#EXTINF:-1,USA_VIP: ESPN News | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42928
+#EXTINF:-1,USA_VIP: FIGHT Network | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42929
+#EXTINF:-1,USA_VIP: Fox 54.1 Huntsville | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42930
+#EXTINF:-1,|USA_VIP| FOX NEWS | HD*
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42931
+#EXTINF:-1,USA_VIP: FOX SOCCER PLUS | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42932
+#EXTINF:-1,USA_VIP: FOX SPORTS 1 | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42933
+#EXTINF:-1,USA_VIP: FOX SPORTS 2 | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42934
+#EXTINF:-1,USA_VIP: FUSE | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42935
+#EXTINF:-1,USA_VIP: FX  | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42936
+#EXTINF:-1,USA_VIP: GAME SHOW NETWORK (GSN) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42937
+#EXTINF:-1,USA_VIP: HISTORY CHANNEL | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42944
+#EXTINF:-1,USA_VIP: MLB NETWORK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42945
+#EXTINF:-1,USA_VIP: MSNBC | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42947
+#EXTINF:-1,USA_VIP: MTV | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42948
+#EXTINF:-1,USA_VIP: MTV LIVE | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42949
+#EXTINF:-1,USA_VIP: FXX HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42950
+#EXTINF:-1,USA_VIP: NAT GEO | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42951
+#EXTINF:-1,USA_VIP: NBA TV | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42952
+#EXTINF:-1,USA_VIP: NBC Sports Network | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42953
+#EXTINF:-1,USA_VIP: NBCSN | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42954
+#EXTINF:-1,USA_VIP: NBCSN PHILADELPHIA  | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42955
+#EXTINF:-1,USA_VIP: NFL Network | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42956
+#EXTINF:-1,USA_VIP: NHL NETWORK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42957
+#EXTINF:-1,USA_VIP: NICK JR | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42958
+#EXTINF:-1,USA_VIP: NICKELODEON | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42959
+#EXTINF:-1,USA_VIP: OWN | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42960
+#EXTINF:-1,USA_VIP: PAC-12 LOS ANGELES | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42961
+#EXTINF:-1,USA_VIP: PBS KIDS | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42963
+#EXTINF:-1,USA_VIP: RED BULL TV | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42964
+#EXTINF:-1,USA_VIP: TBS | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42972
+#EXTINF:-1,USA_VIP: TENNIS CHANNEL | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42973
+#EXTINF:-1,USA_VIP: TLC | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42974
+#EXTINF:-1,USA_VIP: TNT | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42975
+#EXTINF:-1,USA_VIP: WE TV | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42976
+#EXTINF:-1,USA_VIP: Willow Cricket | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42977
+#EXTINF:-1,USA_VIP: WORLD FISHING NETWORK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42978
+#EXTINF:-1,USA_VIP: WWE  | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42979
+#EXTINF:-1,USA_VIP: HGTV HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42982
+#EXTINF:-1,USA_VIP: FOX SPORTS MID WEST | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42985
+#EXTINF:-1,USA_VIP: FOX SPORTS SOUTH | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42986
+#EXTINF:-1,USA_VIP: FOX SPORTS SOUTH WEST | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42987
+#EXTINF:-1,USA_VIP: NBC  | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42988
+#EXTINF:-1,USA_VIP: UNIVISION | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42989
+#EXTINF:-1,USA_VIP: COOKING CHANNEL | UHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42994
+#EXTINF:-1,USA_VIP: CRIME & INVESTIGATION
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42995
+#EXTINF:-1,USA_VIP: FOOD NETWORK (East) | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42996
+#EXTINF:-1,USA_VIP: FXM HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42997
+#EXTINF:-1,USA_VIP: MTV 2 | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42998
+#EXTINF:-1,USA_VIP: MTV BASE | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42999
+#EXTINF:-1,USA_VIP: QVC | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43000
+#EXTINF:-1,USA_VIP: FS1 
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43012
+#EXTINF:-1,USA_VIP: UFC FIGHT PASS
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43013
+#EXTINF:-1,USA_VIP: NBCSN Bay Area | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/43014
+#EXTINF:-1,USA_VIP: CNBC WORLD HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16895
+#EXTINF:-1,|USA_VIP| MSNBC
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16893
+#EXTINF:-1,USA_VIP: WNBC TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16892
+#EXTINF:-1,USA_VIP: CBS Miami Florida WFOR TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16891
+#EXTINF:-1,USA_VIP: CBS New York WCBS TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16890
+#EXTINF:-1,USA_VIP: FOX BUSINESS NETWORK 
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16888
+#EXTINF:-1,USA_VIP: NBC New York WNBC TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16889
+#EXTINF:-1,USA_VIP: Fox WNYW TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16887
+#EXTINF:-1,USA_VIP: NBC Miami Florida WTVJ TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16886
+#EXTINF:-1,USA_VIP: American Heroes Channel
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16885
+#EXTINF:-1,USA_VIP: Baby TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16884
+#EXTINF:-1,USA_VIP: BBC America
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16883
+#EXTINF:-1,USA_VIP: BET HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16882
+#EXTINF:-1,USA_VIP: BET JAMS 
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16881
+#EXTINF:-1,USA_VIP: Boomerang HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16879
+#EXTINF:-1,USA_VIP: Christian Television
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16878
+#EXTINF:-1,USA_VIP: Comedy Central HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16877
+#EXTINF:-1,USA_VIP: Cozi TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16876
+#EXTINF:-1,USA_VIP: Destination America
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16875
+#EXTINF:-1,USA_VIP: EWTN
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16874
+#EXTINF:-1,USA_VIP: Freeform
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16873
+#EXTINF:-1,USA_VIP: IFC
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16872
+#EXTINF:-1,USA_VIP: CNBC US HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16871
+#EXTINF:-1,USA_VIP:  MOTOR TREND
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16870
+#EXTINF:-1,US: NAT GEO WILD HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16869
+#EXTINF:-1,USA_VIP: Nicktoons
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16868
+#EXTINF:-1,USA_VIP: OUTDOOR HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16867
+#EXTINF:-1,USA_VIP: Oxygen
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16866
+#EXTINF:-1,|US_VIP| DISCOVERY SCIENCE | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16865
+#EXTINF:-1,USA_VIP:  SMITHSONIAN CHANNEL
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16864
+#EXTINF:-1,USA_VIP: TBN
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/44392
+#EXTINF:-1,USA_VIP:  SYFY HD+
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42039
+#EXTINF:-1,USA_VIP: Weathernation TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42780
+#EXTINF:-1,US: Fox Weather  HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42781
+#EXTINF:-1,US: Weather Nation Chicago
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42784
+#EXTINF:-1,US: WEATHER CHANNEL
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42785
+#EXTINF:-1,US: WDAY-X WEATHER HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/42782
+#EXTINF:-1,USA_VIP: VH1 | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54594
+#EXTINF:-1,USA_VIP: TBS| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54595
+#EXTINF:-1,USA_VIP: TV Land| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54596
+#EXTINF:-1,|US_VIP| Discovery ID | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54597
+#EXTINF:-1,USA_VIP: SEC Network | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54598
+#EXTINF:-1,USA_VIP: FYI | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54599
+#EXTINF:-1,USA_VIP: Hallmark Movies & Mysteries HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54600
+#EXTINF:-1,USA_VIP: Hallmark Drama HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54601
+#EXTINF:-1,USA_VIP: Discovery Family HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54602
+#EXTINF:-1,USA_VIP: C-SPAN 2 HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54603
+#EXTINF:-1,USA_VIP: C-SPAN 3 HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54604
+#EXTINF:-1,USA_VIP: Logo HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54605
+#EXTINF:-1,USA_VIP: OuterMax HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54606
+#EXTINF:-1,USA_VIP: Viceland HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54607
+#EXTINF:-1,USA_VIP: Showtime 2 HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54608
+#EXTINF:-1,USA_VIP: Showtime Family Zone HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54609
+#EXTINF:-1,USA_VIP: Showtime Women HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54610
+#EXTINF:-1,USA_VIP: Paramount Plus TV HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54611
+#EXTINF:-1,USA_VIP: Popstar TV HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/54613
+#EXTINF:-1,USA_VIP: Sundance TV| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/55228
+#EXTINF:-1,USA_VIP: STARZ ENCORE ACTION | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/56825
+#EXTINF:-1,US: NewsNation East
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/59407
+#EXTINF:-1,US: UFC Fight PASS HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/61573
+#EXTINF:-1,US: VIP UFC FIGHT PASS
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/61574
+#EXTINF:-1,USA_VIP:  beIN Sports
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/61651
+#EXTINF:-1,USA_VIP:  beIN Sports US
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/61652
+#EXTINF:-1,USA_VIP:  beIN Sports 6
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/61653
+#EXTINF:-1,USA_VIP:  beIN Sports 7
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/61654
+#EXTINF:-1,NBA TV
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/67901
+#EXTINF:-1,NBA TV FHD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/67902
+#EXTINF:-1,NBA TV HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/67903
+#EXTINF:-1,USA_VIP: NBA TV HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/67914
+#EXTINF:-1,(MLS) EVENT 1 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68387
+#EXTINF:-1,(MLS) EVENT 2 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68388
+#EXTINF:-1,(MLS) EVENT 3 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68389
+#EXTINF:-1,(MLS) EVENT 4 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68390
+#EXTINF:-1,(MLS) EVENT 5 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68391
+#EXTINF:-1,(MLS) EVENT 6 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68392
+#EXTINF:-1,(MLS) EVENT 7 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68393
+#EXTINF:-1,(MLS) EVENT 8 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68394
+#EXTINF:-1,(MLS) EVENT 9 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68395
+#EXTINF:-1,(MLS) EVENT 10 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68396
+#EXTINF:-1,(MLS) EVENT 11 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68397
+#EXTINF:-1,(MLS) EVENT 12 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68398
+#EXTINF:-1,(MLS) EVENT 13 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68399
+#EXTINF:-1,(MLS) EVENT 14 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68400
+#EXTINF:-1,(MLS) EVENT 15 Full HD (LIVE ONLY)
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/68401
+#EXTINF:-1,USA_VIP: YES NETWORK | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71644
+#EXTINF:-1,USA_VIP: beIN Sports Xtra 1 | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71645
+#EXTINF:-1,USA_VIP: AT&T SportsNet | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71646
+#EXTINF:-1,USA_VIP: ESPNU | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71647
+#EXTINF:-1,USA_VIP: ACC Network | HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71648
+#EXTINF:-1,USA_VIP: NESN| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71649
+#EXTINF:-1,USA_VIP: Marquee Sports Network| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71650
+#EXTINF:-1,USA_VIP: MSG| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71651
+#EXTINF:-1,USA_VIP: MSG2| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71652
+#EXTINF:-1,USA_VIP: MSG+| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71653
+#EXTINF:-1,USA_VIP: Fubo Sports Network| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71654
+#EXTINF:-1,USA_VIP: Eleven Sports| HD
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/71655
 
-#EXTINF:-1,US BET (East)  
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13702
-#EXTINF:-1,USA: Bet Gospel
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/66080
-#EXTINF:-1,USA: BET SOUL
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21844
-#EXTINF:-1,US Disney Channel East (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/2206
-#EXTINF:-1,US: Disney XD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/75621
-#EXTINF:-1,US Lifetime Movies 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20863
-#EXTINF:-1,US NBC Sports Network (F)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46725
-#EXTINF:-1,US NickToons 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/36
-#EXTINF:-1,AU Redbull TV
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/78424
-#EXTINF:-1,US STARZ ENCORE Black
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/16141
-#EXTINF:-1,LAT: TELEMUNDO 51 MIAMI HD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/56410
-#EXTINF:-1,US: WWE NETWORK
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/11645
-#EXTINF:-1,US NBC (KXAN) Austin 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17749
-#EXTINF:-1,US Bally Sports Detroit (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20930
-#EXTINF:-1,US Bally Sports Midwest (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/66795
-#EXTINF:-1,US FanDuel Sports Oklahoma 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20934
-#EXTINF:-1,US Bally Sports Southeast 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/2213
-#EXTINF:-1,US Fanduel Sports Southwest 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21843
-#EXTINF:-1,US FanDuel Sports West (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20932
-#EXTINF:-1,US FanDuel Sports Wisconsin 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/78599
-#EXTINF:-1,USA-Disney Jr
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/41960
-#EXTINF:-1,PT Eleven Sports 1 FHD 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/35264
-#EXTINF:-1,US ESPN NEWS
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17707
-#EXTINF:-1,US Bally Sports North (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/58827
-#EXTINF:-1,US Bally Sports Detroit 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20936
-#EXTINF:-1,US FanDuel Sports Ohio 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17752
-#EXTINF:-1,US MASN (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/65697
-#EXTINF:-1,US MASN2 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/65698
-#EXTINF:-1,US MSG2 (F)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21089
-#EXTINF:-1,US NBC Sports Bay Area (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9900
-#EXTINF:-1,US NBC Sports Boston (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20939
-#EXTINF:-1,US NBC Sports California (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20940
-#EXTINF:-1,US NBC Sports Chicago 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20941
-#EXTINF:-1,US NBC Sports Network (FHD) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20926
-#EXTINF:-1,US NBC Sports Philly (F)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20943
-#EXTINF:-1,US NBC Sports Washington (F)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20944
-#EXTINF:-1,US NESN (F)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/31637
-#EXTINF:-1,US Nickelodeon East (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/38
-#EXTINF:-1,US ESPN SEC Network 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17608
-#EXTINF:-1,US Spectrum SportsNet LA Dodgers (HD) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/31636
-#EXTINF:-1,US Spectrum SportsNet Lakers (FHD) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21842
-#EXTINF:-1,US Tennis Channel
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20184
-#EXTINF:-1,US YES Network
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/57972
-#EXTINF:-1,US  Court TV
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21092
-#EXTINF:-1,US Pop 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20976
-#EXTINF:-1,USA:  Showtime NEXT
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9316
-#EXTINF:-1,USA:  STARZ EDGE 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/16143
-#EXTINF:-1,US UniMas  
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/57969
-#EXTINF:-1,US Univision (East) (SP)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/15336
-#EXTINF:-1,US Spectrum SportsNet Lakers (FHD) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20946
-#EXTINF:-1,US 5 StarMax
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13381
-#EXTINF:-1,USA: A&E
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/59056
-#EXTINF:-1,US A&E (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/2201
-#EXTINF:-1,USA: ABC
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/22990
-#EXTINF:-1,US ACC Network (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9273
-#EXTINF:-1,US ActionMAX (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21013
-#EXTINF:-1,CA Adult Swim (R)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/11644
-#EXTINF:-1,US Altitude Sports HD 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/79545
-#EXTINF:-1,US AMC 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/18925
-#EXTINF:-1,US American Heroes Channel 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10456
-#EXTINF:-1,US Animal Planet 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17870
-#EXTINF:-1,US Antenna TV 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20180
-#EXTINF:-1,US Aspire (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21927
-#EXTINF:-1,US AXS TV 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/48324
-#EXTINF:-1,USA: Baby First HD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/58765
-#EXTINF:-1,US BBC America
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20194
-#EXTINF:-1,USA: Bet Gospel
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/66080
-#EXTINF:-1,US BET (East)  
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13702
-#EXTINF:-1,USA: BET SOUL
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21844
-#EXTINF:-1,US Big Ten HD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9828
-#EXTINF:-1,US Bloomberg
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/15158
-#EXTINF:-1,US Boomerang 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/14741
-#EXTINF:-1,US Bounce XL 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/48323
-#EXTINF:-1,US Bravo (East)   
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20859
-#EXTINF:-1,US BUZZR (STV)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21896
-#EXTINF:-1,US Cartoon Network 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46708
-#EXTINF:-1,US CBS Sports Network HD 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10454
-#EXTINF:-1,US CBS News 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21259
-#EXTINF:-1,US Cinemax (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13380
-#EXTINF:-1,USA: CMT
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46706
-#EXTINF:-1,USA: CMT HD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10476
-#EXTINF:-1,US CNBC 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9815
-#EXTINF:-1,US CNBC World
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20860
-#EXTINF:-1,US CNN 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/1817
-#EXTINF:-1,US CNN 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/104884
-#EXTINF:-1,US Comedy Central (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/7466
-#EXTINF:-1,US Comet (S)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/66244
-#EXTINF:-1,US Cooking Channel 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9229
-#EXTINF:-1,US Cozi
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/11868
-#EXTINF:-1,US Decades 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20189
-#EXTINF:-1,US Destination America (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/14222
-#EXTINF:-1,US Discovery Channel (East)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46720
-#EXTINF:-1,US Discovery Channel East 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9811
-#EXTINF:-1,USA: DISCOVERY FAMILY
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10538
-#EXTINF:-1,USA: Discovery Life HD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9861
-#EXTINF:-1,CA Discovery Velocity HD 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46212
-#EXTINF:-1,US Magnolia Network 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10503
-#EXTINF:-1,USA: DOGTV
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/53539
-#EXTINF:-1,US E! Entertainment Television East 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/11651
-#EXTINF:-1,US EPIX (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13214
-#EXTINF:-1,US Epix Drive IN (S)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/14193
-#EXTINF:-1,USA: Epix Hits
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/12744
-#EXTINF:-1,US EPIX2 (East)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/12730
-#EXTINF:-1,US ESPN 2 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/2210
-#EXTINF:-1,US ESPN 1 (HD) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/14197
-#EXTINF:-1,US ESPN 1 (HD) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9802
-#EXTINF:-1,US ESPNU College Sports 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10255
-#EXTINF:-1,USA: Food Network HD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/7323
-#EXTINF:-1,US Fox Business Network
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17639
-#EXTINF:-1,US Fox News  
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/1818
-#EXTINF:-1,US Fox Sports 1 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/1846
-#EXTINF:-1,US Fox Sports 2 (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/1847
-#EXTINF:-1,US Bally Sports North (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20928
-#EXTINF:-1,US Bally Sports Carolinas (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20929
-#EXTINF:-1,US Bally Sports South
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20931
-#EXTINF:-1,US FanDuel Sports South 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20922
-#EXTINF:-1,US Freeform East
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13370
-#EXTINF:-1,US Fuse 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46701
-#EXTINF:-1,US FX East 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46690
-#EXTINF:-1,US FXM 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10260
-#EXTINF:-1,US FXX (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46699
-#EXTINF:-1,US FYI
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9240
-#EXTINF:-1,US Latin Galavision
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/58770
-#EXTINF:-1,US GetTV 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/18366
-#EXTINF:-1,US Great American Country 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17640
-#EXTINF:-1,US Grit TV
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20861
-#EXTINF:-1,US Hallmark Channel
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46719
-#EXTINF:-1,US Hallmark family
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9307
-#EXTINF:-1,US Hallmark Movies & Mysteries 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10289
-#EXTINF:-1,US HBO East HD  
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46713
-#EXTINF:-1,US HBO 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9264
-#EXTINF:-1,US HBO 2 (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9816
-#EXTINF:-1,US HBO Comedy (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17773
-#EXTINF:-1,US HBO Family (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17772
-#EXTINF:-1,US HBO SIGNATURE (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9266
-#EXTINF:-1,US HBO Zone (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9265
-#EXTINF:-1,US HDNET MOVIES 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/16265
-#EXTINF:-1,US Heroes & Icons (Los Angeles) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/66087
-#EXTINF:-1,US HGTV (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46717
-#EXTINF:-1,US HISTORY 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46724
-#EXTINF:-1,US History Channel 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/15017
-#EXTINF:-1,US HLN 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17748
-#EXTINF:-1,US IFC 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9272
-#EXTINF:-1,US insp 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/16262
-#EXTINF:-1,US ID Investigation Discovery 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46810
-#EXTINF:-1,US ION 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9297
-#EXTINF:-1,US Laff (KNVA)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17777
-#EXTINF:-1,US Lifetime 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46714
-#EXTINF:-1,US Lifetime
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9275
-#EXTINF:-1,US Lifetime Movie
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/2208
-#EXTINF:-1,USA: LOGO TV
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20862
-#EXTINF:-1,US Marquee Sports Network (HD) (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13379
-#EXTINF:-1,US MAV TV (F)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20977
-#EXTINF:-1,US MeTV Network East
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/16149
-#EXTINF:-1,US More Max 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17776
-#EXTINF:-1,US MotorTrend (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10399
-#EXTINF:-1,US MoviePlex (East)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/1829
-#EXTINF:-1,US MSG Plus 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9276
-#EXTINF:-1,US MSG (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21090
-#EXTINF:-1,US MSNBC
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21376
-#EXTINF:-1,US MSNBC 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9296
-#EXTINF:-1,US MTV 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9818
-#EXTINF:-1,US MTV2 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9308
-#EXTINF:-1,US Nat Geo Wild East (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/11664
-#EXTINF:-1,US National Geographic 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46722
-#EXTINF:-1,US National Geographic (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9277
-#EXTINF:-1,USA: NBA TV
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20073
-#EXTINF:-1,USA: NBC
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46687
-#EXTINF:-1,US Golf Channel 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9806
-#EXTINF:-1,US NESN 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46726
-#EXTINF:-1,US Newsmax TV 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/18939
-#EXTINF:-1,US Nick Jr 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46710
-#EXTINF:-1,US Nick JR East (A) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9807
-#EXTINF:-1,USA: NTD NEWS. 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/53527
-#EXTINF:-1,US One America News
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21752
-#EXTINF:-1,US Outdoor Channel
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9244
-#EXTINF:-1,US Cinemax Outermax (X)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21012
-#EXTINF:-1,USA: OUTSIDE TV
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20865
-#EXTINF:-1,USA: OWN
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46698
-#EXTINF:-1,US Oxygen (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46695
-#EXTINF:-1,US Oxygen (East)   
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9245
-#EXTINF:-1,US Paramount Network 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/16201
-#EXTINF:-1,US Paramount Network 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46694
-#EXTINF:-1,US Paramount TV 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10464
-#EXTINF:-1,US PixL (S)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21648
-#EXTINF:-1,US Pursuit UP
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/22888
-#EXTINF:-1,US Reelz 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10526
-#EXTINF:-1,US RetroPlex (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/66379
-#EXTINF:-1,US Revolt 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/39276
-#EXTINF:-1,US RFD-TV 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17868
-#EXTINF:-1,US GAC Living (S)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/75654
-#EXTINF:-1,USA: AMC Thrillers
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/66243
-#EXTINF:-1,US Discovery Science 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20866
-#EXTINF:-1,US Showtime East 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46214
-#EXTINF:-1,US Showtime 2 (East) (H)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13219
-#EXTINF:-1,US Showtime Extreme (East) (SP)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13220
-#EXTINF:-1,US Showtime Family Zone (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/13481
-#EXTINF:-1,US Showtime Women (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17778
-#EXTINF:-1,US Smithsonian Channel (East)   
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/31150
-#EXTINF:-1,US Sportsnet New York (SNY) (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20938
-#EXTINF:-1,US Sportsman Channel (A)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/79913
-#EXTINF:-1,US Starz Cinema (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17775
-#EXTINF:-1,US Starz Cinema (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9301
-#EXTINF:-1,US Starz East (S)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9299
-#EXTINF:-1,US Starz Encore Westerns (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/16263
-#EXTINF:-1,US Starz in Black (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/17779
-#EXTINF:-1,US Starz West (S)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21091
-#EXTINF:-1,US SUNDANCE 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46712
-#EXTINF:-1,US Syfy (East)   
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46685
-#EXTINF:-1,US TBN 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/21895
-#EXTINF:-1,US TBS 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20867
-#EXTINF:-1,US Golf Channel 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46728
-#EXTINF:-1,US The Weather Channel 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/18926
-#EXTINF:-1,US TLC (East)  
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46691
-#EXTINF:-1,US TLC East 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/12734
-#EXTINF:-1,US TLC (east) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/47703
-#EXTINF:-1,US TNT (West) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46688
-#EXTINF:-1,US TNT East 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10455
-#EXTINF:-1,US Travel Channel East 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9315
-#EXTINF:-1,US TRUTV East 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10224
-#EXTINF:-1,US Latin TUDN
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/11885
-#EXTINF:-1,US TUDN 2
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/82241
-#EXTINF:-1,US TV Land 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46696
-#EXTINF:-1,USA: TV Land Classic HD
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9271
-#EXTINF:-1,US TV One 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/20868
-#EXTINF:-1,US TVG Network 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10259
-#EXTINF:-1,US TVG2 Network 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/18940
-#EXTINF:-1,US Univision (East) (SP)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46692
-#EXTINF:-1,US Up TV 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10525
-#EXTINF:-1,US USA Network (East)  
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10252
-#EXTINF:-1,US VH1 (East) 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46705
-#EXTINF:-1,US VH1 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/7404
-#EXTINF:-1,US VICELAND 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46697
-#EXTINF:-1,US VSiN (F)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/18941
-#EXTINF:-1,US WAPA America 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/76481
-#EXTINF:-1,US WE tv 
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/9237
-#EXTINF:-1,US World Fishing Network (F)
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/10477
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -963,11 +933,24 @@ BET 54
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fa2de683058ce3d126cc388b7a6680f:a20478861eb2c5106da94dae36f392a6
-http://tvmate.icu:8080/marmatplum@aol.com/marmatplum@2024/46703
-
-BET 54-A
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16882BET 54-A
 #EXTINF:-1,USA BET UHD
-http://supersonictv.live:8080/864072/196529/22052
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/16882
+
+#EXTINF:-1,CA: BET
+http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/40631
+
+#EXTINF:-1,US BET (East) 
+http://nocable.cc:8080/wRQ9Ca/970072/46703
+#EXTINF:-1,USA: Bet Gospel
+http://nocable.cc:8080/wRQ9Ca/970072/66080
+#EXTINF:-1,US BET (East)  
+http://nocable.cc:8080/wRQ9Ca/970072/13702
+#EXTINF:-1,USA: BET SOUL
+http://nocable.cc:8080/wRQ9Ca/970072/21844
+
+
+
 
 
 MTV2 55
@@ -1025,16 +1008,6 @@ https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000004&type=stream.m3u8
 https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAlK-4Fv78xbgJRaG7UPbvAw/m3u8
 
 
-
-
-
-
-truTV 58
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", truTV East
-http://143.244.60.30/TRU_TV/index.m3u8
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004461&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000099&type=stream.m3u8
 
 
 
@@ -1113,218 +1086,6 @@ https://linear.stvacdn.spectrum.com/LIVE/1212/dash/cenc/ACUWTHH_24609/manifest.m
 https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="Freeform.us@East",Free form East
-https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-id="Fuse.us@East",Fuse East (720p)
-https://fl1.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX.us@East",FX East
-https://fl1.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXM.us@East",FXM East
-https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="FXX.us@East",FXX East
-https://fl1.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="FYI.us@East",FYI East
-https://fl1.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-id="GetTV.us@SD",GetTV (480p)
-https://fl1.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
-https://fl1.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
-https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
-https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
-https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 tvg-id="History.us@East",History
-https://fl1.moveonjoy.com/history_channel/index.m3u8
-
-
-
-GSN 76
-#EXTINF:-1 tvg-ID="GameShowNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1155px-Game_Show_Network_2018.svg.png", Game Show Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5941146bd890bbe33c8e54ba250602f8:40174a00a733522ca2cf323eef03e8fe
-http://212.102.60.231/GAME_SHOW_NETWORK/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/GMSHW_HD_TVE_19603_0_5039932738623791163.mpd
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004314&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAlRWTCj_8Vvao27huAWsuMI/m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAori4BxtdJXg_CV_SLcZkNI/m3u8
-
-
-
-
-MovieSphere 79
-#EXTINF:-1 tvg-ID="" tvg-logo="https://deadline.com/wp-content/uploads/2024/06/MovieSphere.jpg", MovieSphere
-https://lnc-moviesphere.tubi.video/playlist.m3u8
-
-
-Cold Case Files 80
-#EXTINF:-1 tvg-ID="" tvg-logo="https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABWn_ZV7NWLHvuUquuRgcrbmOlUyd_Jb-ZW6nRwip2zFvR79ZWg7VU1ufpKsI6G7WCycXEWfdvb2ZKUh3PgH2kcRmx3bkak66wouMm4byxiPA.png?r=722", Cold Case Files
-https://lnc-cold-case-files.tubi.video/playlist.m3u8
-
-
-Oxygen True Crime 81
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s21484_ll_h15_ac.png", Oxygen True Crime
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3d13eb9dfe6e7b86e0a7e2da1538cd4:e2a094b9d675b0e4599281ac2809e875
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/OXYHD_HD_TVE_19933_0_5543087194601026163.mpd
-http://143.244.60.97/OXYGEN/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004227&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000089&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAl9QXkeEcuF4jjizpBIHENI/m3u8
-
-
-NewsNation 82
-#EXTINF:-1 tvg-ID="NewsNationEast.us" tvg-logo="https://www.tvtv.us/gn/si/assets/s91097_ll_h15_ae.png", NewsNation East
-http://212.102.60.231/NEWS_NATION/index.m3u8
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000586&type=stream.m3u8
-
-
-
-
-IFC 83
-#EXTINF:-1 tvg-ID="IFCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/1200px-IFC_2018_logo.svg.png",IFC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe02646dd6654a7675805f9f75ab80c4:ad39e7bc2166696343ee3d9679ca76bd
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004293&type=stream.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/IFCHD_HD_TVE_16412_0_6443985508637575163.mpd
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAsSEy91gTF1LBYKp1t9RgaI/m3u8
-
-
-Filmrise Black TV 84
-#EXTINF:-1 tvg-ID="IFCEast.us" tvg-logo="https://m.media-amazon.com/images/I/612su9a8HxL._h1_.png",Filmrise Black TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe02646dd6654a7675805f9f75ab80c4:ad39e7bc2166696343ee3d9679ca76bd
-https://lnc-filmrise-blacktv.tubi.video/index.m3u8
-
-
-Filmrise Horror TV 85
-#EXTINF:-1 tvg-ID="IFCEast.us" tvg-logo="https://image.roku.com/developer_channels/prod/1d2d97093f7a391b79c46ee5c2c4c5403df2baa84deabf2641f15b4c2234da05.png",Filmrise Horror TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe02646dd6654a7675805f9f75ab80c4:ad39e7bc2166696343ee3d9679ca76bd
-https://lnc-filmrise-horror.tubi.video/index.m3u8
-
-
-Filmrise Cheaters 86
-#EXTINF:-1 tvg-ID="IFCEast.us" tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2022/08/1920x1080_Cheaters-300x169.jpeg",Filmrise Cheaters TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe02646dd6654a7675805f9f75ab80c4:ad39e7bc2166696343ee3d9679ca76bd
-https://lnc-cheaters.tubi.video/index.m3u8
-
-
-MSG 87
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s10979_ll_h15_ab.png",MSG HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee7c3c5be33345099b4a7016ab98e8ca:69fcd840aa77584edc660bd6e8b1088b
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000124&type=stream.m3u8
-
-
-MSG SPORTS NETWORK 88
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s11105_ll_h15_ac.png",MSG Plus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe84dc1f9e984eafaab010fd5fb64da2:d4c54cf8a6bb72b49d35233f684cfb30
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004158&type=stream.m3u8
-http://ragnarokserve.com:847/K3Streams/KxHDqFMQL9/2924
-https://linear.stvacdn.spectrum.com/LIVE/1147/dash/cenc/MSGPL2O_12838/manifest.mpd
-
-
-
-
-
-
-Yes Network 89
-#EXTINF:-1 tvg-ID="yes.network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/2560px-YES_Network_logo.svg.png", YES Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b47e618207c04b3695224ea343a15827:b9d181d5c7b7725fd99b068d766d915d
-http://fl2.moveonjoy.com/YES_NETWORK/playlist.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000509&type=stream.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004152&type=stream.m3u8
-http://ragnarokserve.com:847/K3Streams/KxHDqFMQL9/11140
-https://linear.stvacdn.spectrum.com/LIVE/1125/dash/cenc/YESNATD_14305/manifest.mpd
-https://cors-proxy.elfsight.com/https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22643
-https://cors-proxy.elfsight.com/http://thevdm.xyz:25461/sterlingphillips1/sterlingphillips1/37840
-
-
-
-
-
-90 BAYWATCH
-#EXTINF:-1 tvg-ID="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeIE_8_TXK5oE_4_bSbCPm546mCpHM1HZPA&s",Baywatch
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c91f8e7fb73e63c1873134f8b09b2526:513c80140dfffaa3cba54b263bf778eb
-https://lnc-baywatch.tubi.video/playlist.m3u8
-
-
-
-
-91 THE WALKING DEAD
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/walkingdead/images/a/a3/TWDUniverse.jpeg/revision/latest?cb=20231013184405", THE WALKING DEAD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c91f8e7fb73e63c1873134f8b09b2526:513c80140dfffaa3cba54b263bf778eb
-https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-
-
-
-
-Hallmark 92
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s11221_ll_h15_aa.png", Hallmark Channel East
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c91f8e7fb73e63c1873134f8b09b2526:513c80140dfffaa3cba54b263bf778eb
-http://143.244.60.97/HALLMARK_CHANNEL/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/HCHD_HD_TVE_18862_0_5642071593844328163.mpd
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004302&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000064&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAp-di2tV-7_33vrrNYxILDg/m3u8
-
-
-
-
-
-
-
-
-
-Hallmark Mystery 93
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",Hallmark Movies & Mysteries
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=169a0ada3789c1c58f6230d95f019d72:2da41fa83a8a500d4250ba880a01cd09
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/HMMHD_HD_TVE_16672_0_7296438063847171163.mpd
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004308&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000066&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAqUO23W-zGSlR21IaoNGb9A/m3u8
 
 
 
@@ -1538,16 +1299,6 @@ https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAnl79ImWnqqVrBYMrQUZHqk/m3
 
 
 
-C-SPAN 3 107
-#EXTINF:-1 tvg-ID="" tvg-logo="https://stopthecap.com/wp-content/uploads/2010/02/cspan3.png",C-SPAN 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed4bac4b24cb82084d7dc2e59df9d306:4fb3259947517b612fbc9817469bec5a
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/CPN3H_HD_TVE_19799_0_6691874709518503163.mpd
-https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1132/dash/cenc/CSPN3HD_00024/manifest.mpd
-http://iptvtree.net:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/2285
-http://thevdm.xyz:25461/sterlingphillips1/sterlingphillips1/39725
 
 
 
@@ -1556,112 +1307,6 @@ http://thevdm.xyz:25461/sterlingphillips1/sterlingphillips1/39725
 
 
 
-This TV 108
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/1200px-This_TV_logo.svg.png",This TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CjBJYDdeW1n6N2tFyzsx3w", "kid":"hHh52c2MQKe0S1FLP0O5Hw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referrer=http://192.168.1.185:9981/extjs.html
-https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-
-
-
-
-
-
-
-COZI TV 109
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/1200px-Cozi_TV_logo.svg.png", COZI TV
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004374&type=stream.m3u8
-http://212.102.60.231/COZI_TV/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000382&type=stream.m3u8
-http://ragnarokserve.com:847/K3Streams/KxHDqFMQL9/2689
-
-
-
-
-
-
-Localish (HD Only) 110
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png",LOCALISH
-https://lnc-localish.tubi.video/index.m3u8
-
-
-
-
-111 COURT TV
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",COURT TV
-https://lnc-court-tv.tubi.video/playlist.m3u8
-
-
-
-
-Start TV 112
-#EXTINF:-1 tvg-ID="" tvg-logo="https://starttv.com/images/logo_v3.png",Start TV
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20001377&type=stream.m3u8
-
-
-
-
-
-
-
-MOVIES! 113
-#EXTINF:-1 tvg-ID="" tvg-logo="https://moviestvnetwork.com/images/movies_tv_network.jpg",HDNet Movies
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/82802.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAi_GzjSfCRJQtsDCaBHAln8/m3u8
-
-
-
-
-
-
-
-Antenna TV 114
-#EXTINF:-1 tvg-ID="" tvg-logo="https://antennatv.tv/wp-content/uploads/2022/05/ATV2022_Black-Orange-Logo.png", Antenna TV
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20001290&type=stream.m3u8
-http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=469349&extension=ts&play_token=6cvxk2jayo
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAgWd1JA1y4wdfhYsFFRNI6A/m3u8
-
-
-
-
-
-
-
-C-SPAN 2 115
-#EXTINF:-1 tvg-ID="" tvg-logo="https://allvectorlogo.com/img/2016/07/c-span-2-logo.png",C-SPAN 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef631f6cd313353279af1302104633da:4464157791ec7029a997d849eb369a20
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/CPN2D_HD_TVE_19390_0_6520902178727911163.mpd
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20001389&type=stream.m3u8
-
-
-
-
-
-
-
-NYS Legislative TV 116
-#EXTINF:-1 tvg-ID="disneychannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2022_United_States_Senate_election_in_New_York_results_map_by_county.svg/1920px-2022_United_States_Senate_election_in_New_York_results_map_by_county.svg.png",NYS Legislative TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=09ce0122fa334a8aa3d76ae1a030abd3:617c3cc50311e3cc3906f333e9d9123a
-http://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/nystateassembly/G1205_008/playlist.m3u8
-https://linear.stvacdn.spectrum.com/LIVE/1116/dash/cenc/NYSLCHD_26339/manifest.mpd
-
-
-
-
-
-
-Word Network 117
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png",The Word Network
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000481&type=stream.m3u8
 
 
 
@@ -1931,37 +1576,18 @@ https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/chunklist_w898927421_b9
 
 
 
-139
-#EXTINF:-1 tvg-id="RadioTeleEclair.ht" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="", BOUNCE TV
-http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 
 
 
 
 
 
-Heroes & Icons 140
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s90401_ll_h15_ad.png", H&I
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000051&type=stream.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002859&type=stream.m3u8
 
 
 
 
 
 
-Discovery Life 141
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s16125_ll_h15_ac.png", DISCOVERY LIFE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8da0dcbb9d16126f328390067f72b18b:da28462cd227047260be426598b3a3f2
-http://143.244.60.97/DISCOVERY_LIFE/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/DLCHD_HD_TVE_4548_0_8724736610461167163.mpd
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000046&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAr11-KWs2N358o6m4ypwu94/m3u8
 
 
 
@@ -1975,22 +1601,11 @@ https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAr11-KWs2N358o6m4ypwu94/m3
 
 
 
-GET 143
-#EXTINF:-1 tvg-ID="GetTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/GetTV-logo.png", GetTV
-http://fl2.moveonjoy.com/GET_TV/index.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAgvOY5bL4LgzWOf0dkhIrhw/m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000063&type=stream.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20003561&type=stream.m3u8
-https://frndlymsl.akamaized.net/hls/live/2006426/gettvmsl/gettvmsl/gettv_600/chunklist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 
 
 
 
-144
-PBS All Arts (WLIW) (HD only) 144
-#EXTINF:-1 tvg-ID="GetTV.us" tvg-logo="https://www.wliw.org/wp-content/uploads/sites/3/2018/10/AllArts_2c_Black_RedStar16-9-e1539793607108.jpg", PBS All Arts
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
 
 
@@ -1998,813 +1613,6 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
 
 
-DABL 145
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/1200px-Dabl_logo.svg.png",DABL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DWcSvyqE7cyT0AGpYT9v7A", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referrer=http://192.168.1.185:9981/extjs.html
-http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=551800&extension=ts&play_token=6cvxk2jayo
-
-
-
-
-
-LocalX 146
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/1597px-Charge%21_Logo_2020.svg.png", LOCALX
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Shop LC 149
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s56032_ll_h15_ac.png",Shop LC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fbca527037953fe8425044df051900d:eac40786fbf76bd2e458ebecf0842945
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
-https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/5349/bpk-tv/20183/drm/manifest.mpd
-4fbca527037953fe8425044df051900d:eac40786fbf76bd2e458ebecf0842945
-
-
-
-
-
-
-
-
-
-
-
-
-Rewind TV 151
-#EXTINF:-1 tvg-id="RadioTeleEclair.ht" tvg-logo="https://yt3.googleusercontent.com/GFChvB3BpiuYXYYbCOwta8M2bAZl8cA8MnXsL2ixGfQXBBaHFHpxqzP3SOJppTUHn2crmO_htA=s900-c-k-c0x00ffffff-no-rj" group-title="", REWIND TV
-http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=757616&extension=ts&play_token=6cvxk2jayo
-
-
-
-
-
-
-
-
-MTV Live (HD only) 153
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s49141_ll_h15_ab.png", MTV Live
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae404d6dad1ef91f4ed96987e94b3d86:c7e7cc69ff1bc59607b87db3185d29e5
-http://143.244.60.97/MTV_LIVE/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/MTVL_HD_TVE_13551_0_7745843366536782163.mpd
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000080&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAtSwDkOK1JWiO3kE-IHMLTs/m3u8
-
-
-
-
-
-Pop 154
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/11/Pop-logo-2-1024x530.png", Pop TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c636a34f9c3543e283934dd5265d2efc:13bd648f4f63a6d585ed5ea1ee26e397
-http://fl3.moveonjoy.com/Pop_TV/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/POPHD_HD_TVE_19395_0_6357934594949744163.mpd
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002174&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20001362&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAh-SZz7qtbM1VeqFOS_8vVE/m3u8
-
-
-
-
-
-
-
-
-Gem Shopping Network 155
-#EXTINF:-1 tvg-ID="GemShoppingNetwork.us" tvg-logo="https://www.tvtv.us/gn/si/assets/s26643_ll_h15_ac.png",Gem Shopping Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54843bb01738438ab1d4dff4511b198a:6148ca9d7871b1699b8cae77864035b6
-https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-https://hls2.rcncdn.com/hlsorigin/gem_hd_fm_1800/chunklist.m3u8?stream=gem_mbr&cust=GemShopping&user=&t=1722126380&h=9351a237fac06bd368e2e1e390e33ca7&type=live
-https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-Great American Faith and Living 156
-#EXTINF:-1 tvg-ID="g" tvg-logo="https://www.tvtv.us/gn/si/assets/s90880_ll_h15_ae.png",Great American Living
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20001335&type=stream.m3u8
-http://141.95.99.43:8080/genesoplayer/123456/118
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FYI 160
-#EXTINF:-1 tvg-ID=""" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png", FYI Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=601713464a8f257ef36a40f789c20d9b:d30b3b5e7ec2bcc50b947cd5895a8c35
-http://212.102.60.231/FYI/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/FYIHD_HD_TVE_16430_0_7462553391675019163.mpd
-http://fl2.moveonjoy.com/FYI/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004404&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000061&type=stream.m3u8
-
-
-Vice TV 161
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/2560px-Vice_TV_logo.svg.png",Vice TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63e315007b6553148d67cfb6d2d22f14:fb21f5c3ac39fe8ab7d44f3db27c62d6
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/VICEH_HD_TVE_18755_0_5336938131802431163.mpd
-http://212.102.60.10/VICELAND/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002151&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000103&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAmHUgn1WPNQy9DchBrQoVy0/m3u8
-
-
-
-
-
-
-National Geographic 162
-#EXTINF:-1 tvg-ID="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png", National Geographic East
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dcf18b06d2c08cb3e24f246bf9e8cbe:ea135e35d737d2e4a3e08cd69cc5cadf
-http://212.102.60.231/National_Geographic/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/NGCHD_HD_TVE_13745_0_4950279909044935163.mpd
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004176&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000391&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAqXwq6wsuN8gjZTqPInOgBo/m3u8
-
-
-
-
-
-
-
-Smithsonian Channel 163
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png", Smithsonian Channel
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20003363&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000093&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAsbLr_MzIW7gH6CraznwmNA/m3u8
-
-
-
-
-
-
-Love Nature 164
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/340px-Love_Nature_TV.png",Love Nature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
-http://170.254.18.106/LOVE_NATURE/index.m3u8
-http://95.67.12.82:9098
-
-
-
-
-
-
-
-Classic Arts Showcase 165
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Classic_Arts_Showcase.png/revision/latest?cb=20201111194835",Classic Arts Showcase
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-
-
-
-
-
-Cooking Channel 166
-#EXTINF:-1 tvg-ID="" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/05/cooking-channel-logo.png",Cooking Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=02e0e387f4c0ab7909f8cdb78b179a5c:7af9937e6b5cdb7bb28eb1437d0cde9c
-http://212.102.60.231/COOKING_CHANNEL/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/COOKD_HD_TVE_19393_0_8911524059143476163.mpd
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004305&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000040&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAhAJdsggx9ba7zG6JQ4LQjs/m3u8
-
-
-
-
-
-
-
-Magnolia Network 167
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/800px-Magnolia_Network.svg.png", Magnolia Network
-http://fl2.moveonjoy.com/DIY/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004323&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000047&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAnk4-Qpc7FYGaBxpkmOTHmg/m3u8
-
-
-
-
-
-
-Justice Central 168
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s79670_ll_h9_aa.png",Justice Central
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"So0k/0lpCppMhLvbenLiuQ", "kid":"b0qe+HR8QcmxHoxsTh9R2Q" } ], "type":"temporary" }
-http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=469401&extension=ts&play_token=6cvxk2jayo
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1756330&extension=ts&play_token=oa9f1lIjGN
-
-
-
-
-
-
-
-
-Recipe.TV 169
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s71294_ll_h6_aa.png",Recipe.TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FVGTP6SSJaG/v22aPn/SlA", "kid":"stpN4rScRLWsMlazHkSCSA" } ], "type":"temporary" }
-http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=551796&extension=ts&play_token=6cvxk2jayo
-http://141.95.99.43:8080/genesoplayer/123456/200
-
-
-
-
-Science Channel 170
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s16616_ll_h15_ab.png", Discovery Science
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1b880f967953a6ebfe8fea1c0bf02c5:a42a35321863719ca61e4ae65da3e71a
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/SCIHD_HD_TVE_16121_0_7084089514599601163.mpd
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20001946&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20001323&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAnvwwxXWVmJo_z2MxF_AnDg/m3u8
-
-
-
-
-
-
-
-Investigation Discovery 171
-#EXTINF:-1 tvg-ID="InvestigationDiscoveryEast.us"" tvg-logo="https://www.tvtv.us/gn/si/assets/s16615_ll_h15_ad.png", Investigation Discovery East
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b4361d7b6ea69a22d4c2ac39af810ef:266cb89900880385450dea59a07ccd3a
-http://143.244.60.97/INVESTIGATION_DISCOVERY/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/IDHD_HD_TVE_18662_0_5074908009763240163.mpd
-http://212.102.60.231/INVESTIGATION_DISCOVERY/index.m3u8
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004287&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000071&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAjyWiS37tAkmq8JsWKuiAiA/m3u8
-
-
-
-
-
-
-
-
-Destination America 172
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s16617_ll_h15_aa.png",Destination America
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea81fc1931b35b972c10caf1cf5df7d6:763ed9a2c47129e7f51b7ad4882cef0d
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/DESTD_HD_TVE_16817_0_4979017078047359163.mpd
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004122&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20001320&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000630&type=stream.m3u8
-
-
-
-
-
-
-American Heroes Channel 173
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s18284_ll_h15_aa.png",American Heroes Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f2fe028a7da935770e1924e182b43c9:d2684a0ca5fbfe1545896e644b0a9152
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/AHCHD_HD_TVE_24537_0_8204699233852826163.mpd
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002245&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000003&type=stream.m3u8
-
-
-
-
-
-
-
-LMN 174
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/1200px-LMN_logo_2019.svg.png", Lifetime Movie Network HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2830dec6cd634c426de620847fe01a8f:f6349f132c27b3410efaa20fac1321b6
-http://84.17.40.25/LIFETIME_MOVIE_NETWORK/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/LMNHD_HD_TVE_16240_0_5095424497842134163.mpd
-http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAow06Be8w4nqKDPPMWDHHwE/m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004284&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000075&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAow06Be8w4nqKDPPMWDHHwE/m3u8
-
-
-
-OWN 180
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s70387_ll_h15_aa.png", OWN HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=248c7749366e3c8330a4ebc4498e299d:cd019f773d26d434b5d3505adcc544cc
-http://143.244.60.97/OWN/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/OWNHD_HD_TVE_19860_0_6223433035238576163.mpd
-http://fl2.moveonjoy.com/OWN/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004221&type=stream.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004224&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000088&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAv1J2Oa4IYOPAoor7ZIsakU/m3
-
-
-
-
-Jewelry Television 182
-#EXTINF:-1 tvg-ID="JewelryTV.us" tvg-logo="https://www.tvtv.us/gn/si/assets/s16604_ll_h15_ab.png",Jewelry TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=27a1aaf0d5329c2e6c52494f9f07e3fc:f2ac78fc59ea7a680098649814bb053d
-https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/JTVHD_HD_TVE_19381_0_6031670497340769163.mpd
-
-
-
-
-
-
-
-
-QVC2 183
-#EXTINF:-1 tvg-ID="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/01/14114356/QVC2.jpg", QVC2
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/master.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004215&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAnTPgDbEYSlO8uGzTddtsfU/m3u8
-
-
-
-
-
-
-Great American Family 184
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Great_American_Family.webp", GAC FAMILY
-http://141.95.99.43:8080/genesoplayer/123456/636723
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20001329&type=stream.m3u8
-http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:42:FD:F4&stream=759693&extension=ts&play_token=6cvxk2jayo
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAtaB876AFdNOoza_0wk4ucM/m3u8
-
-
-
-
-
-
-
-BET Her 185
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png", Bet Her
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d44723d81cfb467663a62cacd5c5b226:0eb0a73fd840272094a3c51abf83e3ee
-http://143.244.60.97/BET_HER/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/BHERH_HD_TVE_25219_0_8413832682997914163.mpd
-http://143.244.60.30/BET_HER/index.m3u8
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004344&type=stream.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20003240&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000020&type=stream.m3u8
-
-
-
-
-
-MTV Classic 186
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1044px-MTV_Classic_2017_logo.svg.png", MTV Classic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6e3d89c5e45be2061a62f7cae709d3b:3d2b79c88b6f0844cc75d7b011371b83
-http://143.244.60.97/MTV_CLASSIC/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/MTVCL_SD_TVE_10067_0_7056500627917742163.mpd
-https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000078&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPApu1IXxkVt9rCi6mJQU1T00/m3u8
-
-
-
-
-
-CMT 187
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.tvtv.us/gn/si/assets/s10138_ll_h15_ab.png", CMT East
-http://195.181.163.243/CMT/index.m3u8
-http://fl3.moveonjoy.com/CMT/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004311&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000033&type=stream.m3u8
-
-
-
-
-
-
-188 UP TV
-#EXTINF:-1 tvg-ID="pbswned.us" tvg-ID="pbswttw.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/UPtv_logo.svg", UPtv
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bcb0307570424a8edc2b2a79dbc3569:2bd23e14b7a0360265a1608c43c8ffeb
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/UPHD_HD_TVE_18863_0_8196205613133777163.mpd
-
-
-
-
-
-
-
-Hallmark Family 189
-#EXTINF:-1 tvg-ID="" tvg-logo="https://a7k5k9r7.rocketcdn.me/wp-content/uploads/2022/11/Hallmark-Drama.jpg.webp", Hallmark Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=acdd31caa9deb30cdb24f48e88ae76b6:559a73091238b0c09db708ec2406d802
-http://143.244.60.97/HALLMARK_DRAMA/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/HALLD_HD_TVE_6696_0_6681785911657918163.mpd
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000064&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAqUWdFMKf0jObpK8H3lFIRw/m3u8
-
-
-
-
-
-
-
-
-
-191 OVATION
-#EXTINF:-1 tvg-ID="pbswned.us" tvg-ID="pbswttw.us" tvg-logo="https://yt3.googleusercontent.com/kqZT_mD2t4EGK1B4-qcLkvdnVuFLAchxIWofzpGDJVYwFnko3bvy817xsgODxsl9WpsDJRTV=s900-c-k-c0x00ffffff-no-rj", OVATION
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-
-
-
-NBA TV 221/269
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg", NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20001966&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000220&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPArsckkOtlUqjOeqBB-xXKbo/m3u8
-
-
-
-The Golf Channel 224
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png", Golf Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ee2468acaaacb9ce2e99440231e7c36:2b090882f9d500aea436ab5aa12705c4
-https://nrfkcdedge03.national-linear-ddtc-tve.tve.cox.net/GOLFD_HD_CX_DDTVE_61854_0_7746784456702405163.mpd?trred=false
-#KODIPROP:inputstream.adaptive.license_key=2c22e375f95f2bf0dc9930f115af8184:0663215e54fdb667bca37fcbecaa56e8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/GOLFD_HD_TVE_16403_0_8797632229356177163.mpd
-http://143.244.60.97/GOLF_CHANNEL/index.m3u8
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000376&type=stream.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20001964&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAr5u-oZe0r9vDTaxMqS6Ytk/m3u8
-
-
-
-Tennis Channel (HD only) 226
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://images-cdn2.welcomesoftware.com/assets/Tennis+Channel.png/Zz0zN2MyODZlNjQ4M2QxMWVlYjE4YmYyOTc0ZmNlODAwZA==?width=1200", Tennis Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=283a9e65909ae1a2153c24903c77ea50:9de85e7c83cc01055eaf82df3ce4ef37
-http://143.244.60.97/TENNIS_CHANNEL/index.m3u8
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/TNND_HD_TVE_16671_0_5894896126941164163.mpd
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-
-
-
-
-
-
-
-ESPN Deportes 227/1066
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgJgTySbq3b0SNpHdrfJXkmhjah9qxNA0gg&s", ESPN Deportes
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002376&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000409&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAu0Q51nQjVX1i3vuBaz6-60/m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAkN8ifAOWxGkFar5mIAVufw/m3u8
-
-
-
-
-
-
-FOX Deportes 228/1067
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png", Fox Sports Deportes
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000411&type=stream.m3u8
-
-
-
-
-
-
-TUDN 229/1065
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", TUDN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8dd478d7a7eec7c4034554052fa0832:9550dfb6e48b301539de8ac99e921506
-https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/TUDNH_HD_TVE_25039_0_7642147744339498163.mpd
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAvs5KSKWLrHymnSIrduz2sM/m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000498&type=stream.m3u8
-
-
-HBO 301
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://logo.iptveditor.com/hbo.png", HBO
-http://212.102.60.231/HBO/index.m3u8
-http://143.244.60.97/HBO/index.m3u8
-http://fl2.moveonjoy.com/HBO/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004419&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000162&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAvoO88xDNbVGbqTrojFkJbM/m3u8
-
-
-
-
-
-
-HBO Signature 310
-#EXTINF:0 CUID="587" tvg-name="" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="",HBO SIGNATURE
-https://1pixmedia.better-than.tv/ngiptv/get.php?id=20004428&type=stream.m3u8
-http://212.102.60.231/HBO_SIGNATURE/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004428&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000167&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAieqmVynkVbXaQDQZeFPYxU/m3u
-
-HBO Family 311
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://logo.iptveditor.com/hbofamily.png", HBO Family
-http://143.244.60.97/HBO_FAMILY/index.m3u8
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000166&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAj0za7DgwkkZOo9ig53z4U0/m3u8
-
-
-Showtime 2 322
-#EXTINF:0 CUID="555" tvg-name="SHOWTIME 2*" tvg-logo="https://logo.iptveditor.com/showtime2.png" group-title="",SHOWTIME 2
-http://143.244.60.97/SHOWTIME_2/index.m3u8
-http://212.102.60.231/SHOWTIME_2/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004188&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000182&type=stream.m3u8
-
-
-Showtime Next 324
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9d/Showtime_Next_II.svg/revision/latest?cb=20240424125527", SHOWTIME NEXT
-http://143.244.60.97/SHOWTIME_NEXT/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000172&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAuTPQCy4LyeFDo5jq_7kYdI/m3u8
-
-
-Showtime Family Zone 325
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg", Showtime Family Zone
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAue2c69lhHMtV5rwSuHBzBA/m3u8
-
-
-Showtime Women 326
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1024px-Showtime_Women.svg.png", SHOWTIME WOMEN
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000173&type=stream.m3u8
-
-
-Paramount+ with Showtime West 327
-#EXTINF:0 CUID="554" tvg-name="SHOWTIME*" tvg-logo="https://logo.iptveditor.com/showtime.png" group-title="",SHOWTIME West
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000170&type=stream.m3u8
-
-
-Showtime 2 West 328
-#EXTINF:0 CUID="555" tvg-name="SHOWTIME 2*" tvg-logo="https://logo.iptveditor.com/showtime2.png" group-title="",SHOWTIME 2 West
-http://141.95.99.43:8080/genesoplayer/123456/2869
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPApeWCOrNdt9_16T6oGta6vw/m3u8
-
-Showtime Showcase West 329
-#EXTINF:0 CUID="556" tvg-name="Showtime Showcase*" tvg-logo="https://logo.iptveditor.com/showtimeshowcase.png" group-title="",Showtime Showcase West
-http://141.95.99.43:8080/genesoplayer/123456/2879
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAupMbvXRYCQvKgK3JM8YD28/m3u8
-
-
-Starz 341
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://1000logos.net/wp-content/uploads/2021/11/Starz-Logo-2008.png", STARZ
-http://143.244.60.97/STARZ/index.m3u8
-http://212.102.60.231/STARZ/index.m3u8
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004113&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000174&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAtldlBOrQX7x6QguMgtAuTI/m3u8
-https://1pixmedia.better-than.tv/ngiptv/get.php?id=20004113&type=stream.m3u8
-
-Starz Kids & Family 342
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Starz_Kids_%26_Family_2016.svg/1200px-Starz_Kids_%26_Family_2016.svg.png", STARZ KIDS & FAMILY
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004170&type=stream.m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11765.m3u8
-https://1pixmedia.better-than.tv/ngiptv/get.php?id=20004170&type=stream.m3u8
-
-Starz Edge 343
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/1280px-Starz_Edge_2016.svg.png", STARZ EDGE
-http://143.244.60.97/STARZ_EDGE/index.m3u8
-http://212.102.60.231/STARZ_EDGE/index.m3u8
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000178&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAtblO2_i5K0pEUwQlb9U-oo/m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000178&type=stream.m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11779.m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/8973.m3u8
-
-Starz in Black 344
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_e__WO84d4vQovWXZJ3X3Cqzu4dtY82aOA&s", STARZ in Black East
-http://141.95.99.43:8080/genesoplayer/123456/2860
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11764.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAv708oQrkkskiyLAC2Fk3gY/m3u8
-
-Starz West 345
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://www.seekpng.com/png/full/335-3358829_starz-west-logo-black-and-white-portable-network.png", STARZ WEST
-http://212.102.60.231/STARZ_WEST/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000176&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPApIgXccUM-2MgINiGc_yxPg/m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11763.m3u8
-
-Starz Comedy 346
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WmZg0CbWaqistoUeLjQY1i91Ezk4s0sU7w&s", STARZ COMEDY
-http://143.244.60.97/STARZ_COMEDY/index.m3u8
-http://212.102.60.231/STARZ_COMEDY/index.m3u8
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004134&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000177&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPApYjvgVcYKlGrEFQetjcdSY/m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11781.m3u8
-
-Starz Cinema 347
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/2560px-Starz_Cinema_2016.svg.png", STARZ Cinema
-http://141.95.99.43:8080/genesoplayer/123456/2840
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11784.m3u8
-
-
-
-Starz Encore 351
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMWAeWlBEa7Z13OJruHUfAwZaTJdvX4iBvgA&s", STARZ ENCORE
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004143&type=stream.m3u8
-http://143.244.60.97/STARZ_ENCORE/index.m3u8
-http://212.102.60.231/STARZ_ENCORE/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000179&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPApZ_q-im7aoWTyHNKbdVfgA/m3u8
-
-
-Starz Encore Suspense 352
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdu2tgG3-UXen3pU8lMMzPj_99_RhmWgxqQ&s", STARZ Encore Suspense
-http://141.95.99.43:8080/genesoplayer/123456/2856
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11770.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAtbWHOQJLwOvuJztMUse7XY/m3u8
-
-
-Cinemax 371
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg", CINEMAX
-http://143.244.60.97/CINEMAX_EAST/index.m3u8
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002591&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000157&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAqdDeOFW7a7xNvdliWCt_7o/m3m8
-
-
-MoreMAX 372
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/MoreMax_Logo.svg", MOREMAX
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20004437&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAqYOCtAtpcTMVt1xbBEeQAs/m3u8
-https://1pixmedia.better-than.tv/ngiptv/get.php?id=20004437&type=stream.m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/501.m3u8
-
-
-ThrillerMAX 373
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/1280px-ThrillerMax_Logo.svg.png", THRILLERMAX
-http://143.244.60.30/CINEMAX_THILLERMAX/index.m3u8
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002593&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000158&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAl2AH4-6h_r1jAdHe6QAfm8/m3u8
-
-
-MovieMAX 374
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2x-6_2y956XNjEUS4WAdwta518XC2037h1Q&s", MovieMAX
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20003534&type=stream.m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11790.m3u8
-
-
-Cinem x 375
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPukZrJP8uom4cT7U_KkNRtjDiOLUlDX0fRA&s", Cinem x
-http://141.95.99.43:8080/genesoplayer/123456/2814
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/5380.m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11762.m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11735.m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11219.m3u8
-
-5 StarMAX 376
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPukZrJP8uom4cT7U_KkNRtjDiOLUlDX0fRA&s", 5 StarMax
-http://141.95.99.43:8080/genesoplayer/123456/2810
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11842.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAknNVgsbxfqn6kFZScnIAgk/m3u8
-
-
-OuterMAX 377
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/2560px-OuterMax_Logo.svg.png", OuterMAX
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20003537&type=stream.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000348&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAuwpm5j-QuxmPh0vASwLe_g/m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/11788.m3u8
-
-
-
-
-
-Cinemax West 378
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg", CINEMAX WEST
-http://143.244.60.30/CINEMAX_WEST/index.m3u8
-https://1pixmedia.better-than.tv/1pmisgtv/isg.php?id=20000477&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAqsLvh28Yl038jeBWBT2FyM/m3u8
-http://thevdm.xyz:25461/Jennifer/Year!/52207
-
-
-
-
-
-ActionMAX 379
-#EXTINF:-1 tvg-ID="WCBSDT1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVG8NDAp-RjN1d-bCd6JuvLUPTs9263QbKYw&s", ACTIONMAX
-https://1pixmedia.better-than.tv/keeptrying/get.php?id=20002592&type=stream.m3u8
-https://digilive.network:443/play/K3Oe8NEGx3RHjd1CIjaPAuhVoIgmiMEDRAtCLWwqQdo/m3u8
-http://proxy.speedal.xyz:8080/live/XhevdetShala4/dGiIoUgCYj/508.m3u8
 
 
 
@@ -3135,8 +1943,6 @@ http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/41532
 http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/41533
 #EXTINF:-1,CA: YES TV
 http://worldiptv.one:25461/hello201921/rChZgJ7tMhxw/40602
-
-
 
 
 #EXTINF:-1,|HT| Tele Metropole
